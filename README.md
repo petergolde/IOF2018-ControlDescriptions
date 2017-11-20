@@ -7,3 +7,4 @@ The images are provided in three formats:
 * 256x256 PNG bitmap, black with a transparent background. See the directory "png-transparent-background"
 * SVG vector, black. See the directory "svg"
 
+In each of these three directories, an HTML file, Index.html, can be used to view all of the images.
