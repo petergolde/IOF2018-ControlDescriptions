@@ -1,4 +1,8 @@
 # IOF2018-ControlDescriptions
+
+__NOTE: This repository corresponds to a pre-release IOF Draft. It will be updated to correspond to the final 
+standard when the IOF releases it.__
+
 This repository contains images corresponding to the IOF 2018 Control Description Standard. These images are are
 identical to those used by the software program Purple Pen (http://purple-pen.org).
 
